@@ -1,8 +1,8 @@
 * [前言](/)
 
-* 实用知识
-    * [Elements 面板](/elements/)
-    * [Network 面板](/network/)
+* [Elements 面板](/elements)
+    * [检查失去焦点会消失的元素](/inspect_elements_hide_on_blur)
+* [Network 面板](/network)
 
-* 附录
-    * [参考](/references)
+
+* [参考](/references)
