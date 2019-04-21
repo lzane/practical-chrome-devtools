@@ -14,15 +14,36 @@
   <script>
     window.$docsify = {
       name: '⚒️ Practical Chrome DevTools ',
+      nameLink: {
+        '/en/': '/#en/',
+        '/': '/#/'
+      },
       repo: 'https://github.com/lzane/practical-chrome-devtools',
       loadSidebar: true,
-      subMaxLevel: 3,
+      loadNavbar: true,
+      subMaxLevel: 2,
       ga: 'UA-138669154-1',
       plugins: [
         EditOnGithubPlugin.create('https://github.com/lzane/practical-chrome-devtools/tree/master/docs/')
       ],
       pagination: {
         crossChapter: true
+      },
+      alias: {
+      },
+      fallbackLanguages: ['en'],
+      search: {
+        paths: 'auto',
+        placeholder: {
+          '/en/': 'Type to search',
+          '/': '搜索',
+        },
+        noData: {
+          '/en/': 'No Results',
+          '/': '找不到结果',
+        },
+        depth: 1,
+        namespace: 'practical_chrome_devtools',
       },
     }
   </script>
