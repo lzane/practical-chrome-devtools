@@ -8,7 +8,8 @@ This is practical for performance optimization and viewing the context of a requ
 
 ## Answer
 
+![view_initiators_and_dependencies](../media/view_initiators_and_dependencies.gif)
+
 > - Hole down `Shift` and hover over the request.
 > - The initiators were colored by green, and the dependencies (what the request trigger next) by red.
 
-![view_initiators_and_dependencies](../media/view_initiators_and_dependencies.gif)

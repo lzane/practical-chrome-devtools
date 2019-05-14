@@ -8,7 +8,7 @@
 
 ## 答案
 
+![view_initiators_and_dependencies](./media/view_initiators_and_dependencies.gif)
+
 > - 按住`Shift`， 将鼠标移到想要查看的请求上面
 > - 绿色显示这个请求由谁触发，红色显示这个请求接着触发了哪些请求。
-
-![view_initiators_and_dependencies](./media/view_initiators_and_dependencies.gif)
