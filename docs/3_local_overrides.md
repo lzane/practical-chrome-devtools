@@ -1,4 +1,4 @@
-# 固化变更代码覆盖，一个尝试点子的好技巧 
+# 3. 固化变更代码覆盖，一个尝试点子的好技巧 
 
 ## 问题
 
@@ -13,4 +13,4 @@
 > - 现在在 `Elements面板` 中直接修改样式，DevTools 会自动生成一个文件储存这些变更
 > - 在 `Network面板` 下右键你想更改的文件，点击 `save for overrides` ，你就可以更改这个文件了，并且所有变更在刷新之后仍然有效
 
-![view_initiators_and_dependencies](../media/local_overrides.gif)
+![view_initiators_and_dependencies](./media/local_overrides.gif)

@@ -1,4 +1,4 @@
-# inspect the element which disappear on blur
+# 1. inspect the element which disappear on blur
 
 ## Question
 
@@ -11,5 +11,5 @@ A good example will be the Github search input, which will show up the search re
 > - Press `Command + \` or `Control + \` (for Windows) to pause the js from execution.
 > - Use the inspect tool `Command + Shift + C` or `Control + Shift + C` (for Windows) to inspect the freezing search dialog.
 
-![inspect_elements_hide_on_blur](../../media/inspect_elements_hide_on_blur.gif)
+![inspect_elements_hide_on_blur](../media/inspect_elements_hide_on_blur.gif)
 

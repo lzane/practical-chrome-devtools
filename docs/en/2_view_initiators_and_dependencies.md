@@ -1,4 +1,4 @@
-# view the initiators and dependencies of a request
+# 2. view the initiators and dependencies of a request
 
 ## Question
 
@@ -11,4 +11,4 @@ This is practical for performance optimization and viewing the context of a requ
 > - Hole down `Shift` and hover over the request.
 > - The initiators were colored by green, and the dependencies (what the request trigger next) by red.
 
-![view_initiators_and_dependencies](../../media/view_initiators_and_dependencies.gif)
+![view_initiators_and_dependencies](../media/view_initiators_and_dependencies.gif)

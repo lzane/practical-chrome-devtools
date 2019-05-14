@@ -1,4 +1,4 @@
-# 检查失去焦点就会消失的元素
+# 1. 检查失去焦点就会消失的元素
 
 ## 问题
 
@@ -11,5 +11,5 @@
 > - 按下`Command + \` 或者 `Control + \` （ Windows 下 ）使 js 暂停运行
 > - 在使用检查工具（`Command + Shift + C` 或者 `Control + Shift + C`）选取搜索结果
 
-![inspect_elements_hide_on_blur](../media/inspect_elements_hide_on_blur.gif)
+![inspect_elements_hide_on_blur](./media/inspect_elements_hide_on_blur.gif)
 
