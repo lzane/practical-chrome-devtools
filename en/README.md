@@ -4,7 +4,7 @@
 
 > one minutes，a Chrome DevTools tips.
 
-?> for better reading experience, please visit https://practical-chrome-devtools.lzane.com.
+?> for better reading experience, please visit https://devtools.lzane.com.
 
 ## Currently finished:
 - [1. inspect the element which disappear on blur](/en/1_inspect_elements_hide_on_blur.md)

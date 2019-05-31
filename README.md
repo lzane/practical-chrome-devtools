@@ -4,7 +4,7 @@
 
 > 一分钟，一个 Chrome DevTools 技巧。
 
-?> 为了更好的阅读体验，请访问 https://practical-chrome-devtools.lzane.com 阅读。
+?> 为了更好的阅读体验，请访问 https://devtools.lzane.com 阅读。
 
 ## 目前已完成的知识:
 - [1. 检查失去焦点会消失的元素](1_inspect_elements_hide_on_blur.md)
