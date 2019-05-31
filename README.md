@@ -1,8 +1,6 @@
 # ⚒️ 实用的 Chrome DevTools 知识
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/60c6da58-c569-4610-917f-dc9bb0adbf2f/deploy-status)](https://app.netlify.com/sites/friendly-dubinsky-167f6d/deploys)
-
-[![Build Status](https://travis-ci.com/lzane/practical-chrome-devtools.svg?branch=master)](https://travis-ci.com/lzane/practical-chrome-devtools)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60c6da58-c569-4610-917f-dc9bb0adbf2f/deploy-status)](https://app.netlify.com/sites/friendly-dubinsky-167f6d/deploys) [![Build Status](https://travis-ci.com/lzane/practical-chrome-devtools.svg?branch=master)](https://travis-ci.com/lzane/practical-chrome-devtools)
 
 > 一分钟，一个 Chrome DevTools 技巧。
 
